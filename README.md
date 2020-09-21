@@ -21,3 +21,4 @@ The MIS team shared the month on month (MoM) sales figures (number of tractors s
 
 
 CheckOUT below link, for more detailed Solution.
+http://ucanalytics.com/blogs/wp-content/uploads/2017/08/ARIMA-TimeSeries-Analysis-of-Tractor-Sales.html
